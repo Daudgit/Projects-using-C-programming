@@ -1,7 +1,7 @@
 #include <stdio.H>
 #include <stdlib.h>
 #include <time.h> //for random number generator seed
-
+//main function
 int main()
 {
     int RandomNumber = 0;
