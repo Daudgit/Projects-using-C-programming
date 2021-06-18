@@ -1,3 +1,5 @@
+//Guessing the Number Game
+
 #include <stdio.H>
 #include <stdlib.h>
 #include <time.h> //for random number generator seed
