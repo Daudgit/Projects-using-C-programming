@@ -1,4 +1,4 @@
-//Guessing the Number Game
+//Guessing the Number Game for you
 
 #include <stdio.H>
 #include <stdlib.h>
