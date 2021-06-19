@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <time.h> //for sleep() function
-#include <unistd.h>
+
 #include <stdlib.h>
 #include <stdbool.h>
 int main()
 {
     int hour, minute, second;
-    int x == 1;
+    int x = 1;
     hour = minute = second = 0;
 again:
     printf("Start Timer by pressing 1");
